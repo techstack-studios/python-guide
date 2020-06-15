@@ -25,7 +25,7 @@
 
 ## 小盒子——变量 <a id="变量"></a>
 
-* [python变量的初步认识](变量/变量-de-chu-bu-ren-shi.md)
+* [python变量的初步认识](变量/python-bian-liang-de-chu-bu-ren-shi.md)
 * [数据类型](变量/shu-ju-lei-xing.md)
 * [数字](变量/shu-zi.md)
 * [数值运算](变量/shu-zhi-yun-suan.md)
