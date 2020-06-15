@@ -47,4 +47,4 @@
 ## 一些能让你写代码省点事的东西 <a id="5 实用技巧"></a>
 
 * [Python函数基础](5 实用技巧/python-han-shu.md)
-
+* [Python函数基础](5 使用技巧/Python函数进阶.md）
