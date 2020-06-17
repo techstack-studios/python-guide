@@ -4,7 +4,7 @@
 
 ## 开始 <a id="0 开始"></a>
 
-* [python介绍](0 开始/Python介绍.md)
+* [python介绍](Python介绍.md)
 * [配置python环境](0 开始/配置Python环境.md)
 
 ## 磨刀不误砍柴工——选一个好的IDE <a id="1 编辑器和 IDE"></a>
