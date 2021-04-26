@@ -1,4 +1,4 @@
-theme: sighingnow/jekyll-gitbook
+remote_theme: sighingnow/jekyll-gitbook
 
 # Configurations
 title:            Jekyll Gitbook
